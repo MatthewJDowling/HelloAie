@@ -6,8 +6,8 @@
 
 int main()
 {
-	printf("Hes just standing there, MENACINGLY ");
-
+	printf("I never ");
+	printf("asked for this.");
 	getchar();
 
 }
